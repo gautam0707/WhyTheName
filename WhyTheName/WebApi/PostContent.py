@@ -1,5 +1,5 @@
+from Serializers.BasicContentModelSerializer import ContentSerializer
 from WhyTheName.ORMClasses.BasicContentModel import *
-from WhyTheName.ORMClasses.BasicContentModelSerializer import ContentSerializer
 
 
 def add_post():
